@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Hyan
 middle_name: 
-last_name: Zhang
+last_name: 
 email: hyzhang1210@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -134,8 +134,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: hyan的算法世界 # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: hyan的修炼之路 # blog_name will be displayed in your blog page
+blog_description: 怕什么真理无穷，进一寸有一寸的欢喜
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
